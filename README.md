@@ -1,3 +1,5 @@
+# 个人注释版。关注BOR的CPU性能优化方案
+
 # LeGO-LOAM-BOR
 
 This is a fork of the original [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).
