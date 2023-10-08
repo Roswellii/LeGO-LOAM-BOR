@@ -1,4 +1,4 @@
-# 个人注释版。关注BOR的CPU性能优化方案
+个人注释版。关注BOR的CPU性能优化方案
 
 # LeGO-LOAM-BOR
 
